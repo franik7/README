@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frants</h1>
-<h3 align="center">A passionate developer. I am always learning!</h3>
+<h3 align="center">A passionate developer. I would love to work with you!</h3>
 
 - 👨‍💻 All of my projects are available at [https://frants.netlify.app/](https://frants.netlify.app/)
 
